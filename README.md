@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md Athar
 - 👀 I’m interested in MERN
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning NestJs
 - 📫 How to reach me --- https://www.linkedin.com/in/md-athar-alam-a5067b18b
 <!---
 mdathar19/mdathar19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
