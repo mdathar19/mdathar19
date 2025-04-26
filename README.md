@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Md Athar
-- 👀 I’m interested in MERN
+- 👀 I’m interested in MERN / AI Assisted Project / Prompt Engineering
 - 🌱 I’m currently learning Angular
 - 📫 How to reach me --- https://www.linkedin.com/in/md-athar-alam-a5067b18b
 <!---
